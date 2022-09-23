@@ -1,0 +1,105 @@
+
+
+button{
+    background-color: yellow;
+    border: 2px solid #05364D;
+    border-radius: 8px;
+    border-bottom: 5px solid #05364D;
+    width: 350px;
+    padding: 15px;
+}
+
+button:hover{
+    background-color: rgb(255, 208, 0);
+}
+
+button span{
+    margin-right: 5px;
+    font-size: 24px;
+    font-weight: 300px;
+}
+button i{
+    font-size: 24px;
+    font-weight: 300px;
+}
+
+center{
+    height: 550px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 440px;
+    width: 350px;
+    border: 2px solid antiquewhite;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: antiquewhite;
+    box-shadow: 20px 20px 25px gainsboro;
+}
+.div input{
+    display: block;
+}
+input{
+    width: 330px;
+    padding: 18px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.div button{
+    display:block;
+}
+
+.div button{
+    margin-top: 140px;
+}
+
+label{
+    margin-right: 50px;
+    margin-top: 350px;
+}
+
+p{
+    margin-right: 150px;
+}
+.divcha i{
+ position: relative;
+ top: 291px;
+ left: 525px;
+}
+span .as{
+    position: relative;
+    color: #05364D;
+    left: 160px;
+}
+li{
+    list-style: none;
+}
+.boll {
+    background-color:wheat;
+    padding: 10px;
+    box-shadow: 20px 20px 25px gainsboro;
+}
+.boll ul li a{
+    color:blue;
+}
+
+.boll ul{
+    display: flex;
+}
+
+.boll ul .lis{
+    margin-left: 1000px;
+}
+
+.div span i{
+    color: yellow;
+    font-size: 150px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 300px;
+    color: #05364D;
+}
+
+

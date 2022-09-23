@@ -1,0 +1,58 @@
+.ol{
+    background-color: gray;
+    width: 450px;
+    height: 150px;
+    border: 1px solid black;
+    overflow: auto;
+}
+
+li h2:active{
+    background-color: darkgreen;  
+}
+
+li:active{
+    background-color: teal;
+}
+
+li h2:hover{
+    text-align: center;
+ background-color: gainsboro;
+}
+ol li:hover{
+    background-color: darkgray;
+}
+
+ol li {
+    text-align: center;
+}
+ul{
+    display: flex;
+ background-color: #05364D;
+    padding: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+li a{
+    padding: 15px;
+    border: 1px solid #05364D;
+}
+
+.li{
+    margin-left: 25px;
+}
+
+ li a:hover{
+     color: black;
+    background-color: white;
+} 
+
+.lis{
+    margin-left: 650px;
+}
